@@ -1,0 +1,90 @@
+[
+  {
+    "id": "deal-01",
+    "emoji": "🥩",
+    "title": "미국산 프라임 척아이롤",
+    "description": "부드러운 육질과 풍미 가득, 미국산 프라임 등급 척아이롤 특가 할인",
+    "price": "₩12,990",
+    "originalPrice": "₩18,900",
+    "badgeText": "특가",
+    "endDate": "7/7",
+    "color": "red"
+  },
+  {
+    "id": "deal-02",
+    "emoji": "🧻",
+    "title": "커클랜드 3겹 화장지 30롤",
+    "description": "부드러우면서도 강력한 3겹 구조, 30롤 대용량 패키지",
+    "price": "₩28,990",
+    "originalPrice": null,
+    "badgeText": "인기",
+    "endDate": "7/10",
+    "color": "blue"
+  },
+  {
+    "id": "deal-03",
+    "emoji": "🥐",
+    "title": "커클랜드 버터 크로와상 12입",
+    "description": "겹겹이 쌓인 버터 풍미, 바삭한 식감의 프리미엄 크로와상",
+    "price": "₩9,990",
+    "originalPrice": "₩13,490",
+    "badgeText": "특가",
+    "endDate": "7/7",
+    "color": "orange"
+  },
+  {
+    "id": "deal-04",
+    "emoji": "🍗",
+    "title": "양념 닭다리 2.5kg",
+    "description": "달콤짭짤한 양념에 재운 닭다리, 에어프라이어에 굽기만 하면 완성",
+    "price": "₩16,990",
+    "originalPrice": "₩22,900",
+    "badgeText": "한정수량",
+    "endDate": "7/12",
+    "color": "brown"
+  },
+  {
+    "id": "deal-05",
+    "emoji": "🥑",
+    "title": "대용량 아보카도 1kg",
+    "description": "고소하고 부드러운 멕시코산 아보카도, 1kg 대용량",
+    "price": "₩11,990",
+    "originalPrice": "₩15,900",
+    "badgeText": "특가",
+    "endDate": "7/9",
+    "color": "green"
+  },
+  {
+    "id": "deal-06",
+    "emoji": "🧀",
+    "title": "커클랜드 모짜렐라 치즈 2.27kg",
+    "description": "고소하게 늘어나는 피자용 모짜렐라, 대용량 경제가격",
+    "price": "₩24,990",
+    "originalPrice": null,
+    "badgeText": "인기",
+    "endDate": "7/14",
+    "color": "yellow"
+  },
+  {
+    "id": "deal-07",
+    "emoji": "🍣",
+    "title": "스시&사시미 모음 1.2kg",
+    "description": "신선한 연어와 참치로 구성된 스시와 사시미 모음, 파티용 대용량",
+    "price": "₩35,990",
+    "originalPrice": "₩45,900",
+    "badgeText": "신상",
+    "endDate": "7/8",
+    "color": "pink"
+  },
+  {
+    "id": "deal-08",
+    "emoji": "☕",
+    "title": "커클랜드 콜롬비아 원두커피 1.13kg",
+    "description": "콜롬비아산 100% 아라비카 원두, 다크 로스팅 풍부한 향",
+    "price": "₩19,990",
+    "originalPrice": "₩25,900",
+    "badgeText": "특가",
+    "endDate": "7/15",
+    "color": "brown"
+  }
+]
