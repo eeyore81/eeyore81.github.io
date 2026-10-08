@@ -2,7 +2,6 @@
  {
   "id": "ironbars-kr",
   "title": "전국 철봉 지도",
-  "emoji": "🐒",
   "description": "전국 공원·산책로의 철봉·평행봉 모음(제주~강원, 송도권 포함). OpenStreetMap 기여자 데이터(ODbL)",
   "pins": [
    {
@@ -756,12 +755,12 @@
     "lat": 37.584807,
     "lng": 126.959317
    }
-  ]
+  ],
+  "icon": "fitness_center"
  },
  {
   "id": "songdo-hot",
   "title": "송도 핫플 지도",
-  "emoji": "🏙️",
   "description": "송도 센트럴파크·G타워 전망대·한옥마을·트리플스트리트 등 송도 가볼 곳 총정리. OSM 공원 데이터 + 엄선 랜드마크",
   "pins": [
    {
@@ -993,12 +992,12 @@
     "lng": 126.638002,
     "memo": "공원 · 산책·나들이"
    }
-  ]
+  ],
+  "icon": "location_city"
  },
  {
   "id": "hagwon-kr",
   "title": "전국 학원 지도",
-  "emoji": "📚",
   "description": "전국 학원(입시·교육) 모음. OpenStreetMap 기여자 데이터(ODbL) — 누락 곳은 직접 추가 가능",
   "pins": [
    {
@@ -1482,12 +1481,12 @@
     "lat": 37.570136,
     "lng": 126.903719
    }
-  ]
+  ],
+  "icon": "school"
  },
  {
   "id": "popup-kr",
   "title": "전국 팝업 스토어 지도",
-  "emoji": "🛍️",
   "description": "서울·송도·부산·대구·대전·광주 팝업 베뉴 샘플(수동 관리). 시즌마다 바뀌니 파일을 직접 갱신하세요",
   "pins": [
    {
@@ -1570,6 +1569,7 @@
     "address": "광주 동구 충장로",
     "memo": "충장로 거리 팝업"
    }
-  ]
+  ],
+  "icon": "storefront"
  }
 ]
