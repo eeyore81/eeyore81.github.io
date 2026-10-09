@@ -1,0 +1,46 @@
+{
+ "corner": "evening",
+ "date": "20261009",
+ "name": "오늘의 이슈 정리",
+ "images": [
+  "01_cover.png",
+  "02_news.png",
+  "03_news.png",
+  "04_news.png",
+  "05_news.png",
+  "07_closing.png",
+  "caption.txt",
+  "post.json"
+ ],
+ "caption_file": "caption.txt",
+ "articles": [
+  {
+   "title": "정부, 주우크라 대사 소환…‘북한군 포로 공개’ 강력 항의",
+   "url": "https://www.khan.co.kr/article/202610082211025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "sources": [
+    "경향신문"
+   ]
+  },
+  {
+   "title": "주우크라 대사 소환에···우크라 외교부 “감정보다 외교 우선해야”",
+   "url": "https://www.khan.co.kr/article/202610090832001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "sources": [
+    "경향신문"
+   ]
+  },
+  {
+   "title": "[뛸지도]잔 받침까지 야무지게 만든 다음 ‘러너 할인’ 카페에서 커피 한 잔",
+   "url": "https://www.khan.co.kr/article/202610090800005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "sources": [
+    "경향신문"
+   ]
+  },
+  {
+   "title": "[셸터: 서로를 구하다②]“싹 다 죽여” 국가의 광기…평범한 경찰관은 조용히 명령을 어겼다",
+   "url": "https://www.khan.co.kr/article/202610090700001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "sources": [
+    "경향신문"
+   ]
+  }
+ ]
+}

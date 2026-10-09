@@ -1,0 +1,38 @@
+{
+ "corner": "factcheck",
+ "date": "20261009",
+ "name": "팩트냥의 체크",
+ "images": [
+  "01_cover.png",
+  "02_news.png",
+  "03_news.png",
+  "04_news.png",
+  "06_closing.png",
+  "caption.txt",
+  "post.json"
+ ],
+ "caption_file": "caption.txt",
+ "articles": [
+  {
+   "title": "트럼프는 훈장, 밴스는 ‘철퇴’···MS가 드러낸 백악관의 ‘H-1B 딜레마’",
+   "url": "https://www.khan.co.kr/article/202610090503001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "sources": [
+    "경향신문"
+   ]
+  },
+  {
+   "title": "트럼프는 흔드는데, 미국인 64% “한·미 동맹, 미국 이익에 부합”",
+   "url": "https://www.khan.co.kr/article/202610082300001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "sources": [
+    "경향신문"
+   ]
+  },
+  {
+   "title": "대구 주차타워서 70대 노동자 리프트에 끼여 숨져···중대재해법 위반 조사",
+   "url": "https://www.khan.co.kr/article/202610090846001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "sources": [
+    "경향신문"
+   ]
+  }
+ ]
+}
